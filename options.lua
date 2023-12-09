@@ -2,6 +2,7 @@
 return {
   opt = {
     clipboard = "unnamed",
+    colorcolumn = "101",
     -- set to true or false etc.
     relativenumber = true, -- sets vim.opt.relativenumber
     number = true, -- sets vim.opt.number
